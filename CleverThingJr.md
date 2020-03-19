@@ -1,3 +1,0 @@
-# CleverThing Jr
-
-Coming Soon!
