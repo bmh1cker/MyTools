@@ -1,7 +1,7 @@
 	
-# Welcome to Hard Working Toys
+# Welcome to BM Hacker
 
-They are toys, they work hard, so they should play hard... or something like that.  
+They are programming, they work hard, so they should play hard... or something like that.  
 Really it is the place I describe and document my public projects.
 
 ## The projects
