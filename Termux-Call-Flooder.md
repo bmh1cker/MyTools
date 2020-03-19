@@ -5,11 +5,6 @@ You Installed this Tool Can help You Contacted My YouTube Channel.
 # My YouTube Channel Link:-
 https://www.youtube.com/channel/UCBFF10bY3xpXEgbUHCUppUQ
 
-<br>
-<p align="center">
-<img src="https://github.com/bmh1cker/bmhacker.com/blob/master/src/Termux%20Call%20Flooder.jpg"/>
-</p>
-<br><br>
 
 # Install Guide
 How to install This project.
@@ -56,27 +51,9 @@ Outher modify-
 # Warking Problem
 1> You Do not install ($npm install) not warking this code, You problem this Face. 
 
-<br>
-<p align="center">
-<img src="https://github.com/bmh1cker/bmhacker.com/blob/master/src/ProblemDon'tWark.jpg"/>
-</p>
-<br><br>
-
 2> You Don't setup Twilio Account ($nano bot.js) not warking this code, You problem this Face.
 
-<br>
-<p align="center">
-<img src="https://github.com/bmh1cker/bmhacker.com/blob/master/src/TwilioSetup.jpg"/>
-</p>
-<br><br>
-
 3> This problem was Twilio Account Number Problem, You can add the "To" Number(You create Twilio Account verify Number) add that Number.
-
-<br>
-<p align="center">
-<img src="https://github.com/bmh1cker/bmhacker.com/blob/master/src/Twilioprb.jpg"/>
-</p>
-<br><br>
 
 # Warn
 <br>
