@@ -74,8 +74,8 @@ $nano index.html
 <body>
 <br>
 <center>
-<img height="100" width="100" src=/dark.png />
-<p class="Download" > <i><b>DarkWeb</b></i></P>
+<img height="100" width="100" src=/bm.png />
+<p class="Download" > <i><b>BM Hacker</b></i></P>
 <h1 style="color: blue;"> Subscribe my Channel</h1>
 </center>
 <style>
