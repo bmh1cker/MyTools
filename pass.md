@@ -72,24 +72,3 @@ to encourage further development of the tool.
 
   * BM Hacker 
     https://github.com/bmh1cker
-
-## 🔗 ***Check this***
-
-### Subscribe our channel on youtube:
-https://www.youtube.com/bmhacker
-
-### Chekout our webite:
-https://h1ckpro.tk
-
-## 👥 ***Join***
-
-### Telegram channel:
-https://t.me/bmhackerofficial
-
-### Facebook page:
-https://www.facebook.com/bmh1cker
-
-### Instagram: 
-https://www.instagram.com/bmh1cker
-
-## By (BM Hacker)
